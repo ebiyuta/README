@@ -2,11 +2,13 @@
 ## できること
 * HTML
 * CSS
+* Sass
 * JavaScript
 * jQuery
 * Vue.js
 * Nuxt.js
 * Netlify
+* Firebase
 * WordPress
 * HubSpot
 * Adobe XD
