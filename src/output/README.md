@@ -4,6 +4,9 @@
   * ~~僕が始めて作ったブログサイトです。有料のWPテーマを買ってただ使っているだけ、特にカスタマイズもしていないので作り直したいです…。~~
   * Nuxt.js × Contentful × Netlifyで作り直しました！
     * [このブログをWPからNuxt.js × Contentful × Netlifyに移行した話](https://ebifry.jp/vue-js/renewal)
+## 個人開発
+* [人狼メモツール](https://jinro.tools)
+  * vue.jsの勉強のためにフロント側でのみデータのやり取りをして、人狼ゲームの
 ## note
 * [えび](https://note.mu/ebifry)
   * noteです。技術的なことより、エモい感じのやつはこっち書いています。
