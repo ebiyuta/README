@@ -1,12 +1,11 @@
-# できること・できないこと
-## できること
+# スキルセット
 * HTML
 * CSS
   * Sass
 * JavaScript
   * jQuery
   * Vue.js
-  * Nuxt.js
+    * Nuxt.js
 * Baas
   * Netlify
   * Firebase
@@ -14,7 +13,7 @@
   * Nunjucks
 * CMS
   * WordPress
-  * HubSpot
+  * HubSpotCMS
 * デザインツール
   * Figma
   * Adobe XD
@@ -24,5 +23,3 @@
   * Adobe Premiere Pro
   * Adobe Premiere Rush
   * Adobe After Effects
-## できないこと
-* バックエンド全般
