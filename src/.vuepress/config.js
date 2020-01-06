@@ -29,12 +29,6 @@ module.exports = {
         ]
       },
       {
-        title: 'Output',
-        children: [
-          '/output/'
-        ]
-      },
-      {
         title: 'SkillSet',
         children: [
           '/skillset/'
@@ -44,6 +38,12 @@ module.exports = {
         title: '2019ToDo',
         children: [
           '/2019/'
+        ]
+      },
+      {
+        title: '2020ToDo',
+        children: [
+          '/2020/'
         ]
       },
       {
